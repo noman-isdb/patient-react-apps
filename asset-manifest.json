@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/patient-react-apps/static/css/main.3afbcf20.css",
+    "main.js": "/patient-react-apps/static/js/main.6594e923.js",
+    "static/js/453.ffae61d5.chunk.js": "/patient-react-apps/static/js/453.ffae61d5.chunk.js",
+    "index.html": "/patient-react-apps/index.html",
+    "main.3afbcf20.css.map": "/patient-react-apps/static/css/main.3afbcf20.css.map",
+    "main.6594e923.js.map": "/patient-react-apps/static/js/main.6594e923.js.map",
+    "453.ffae61d5.chunk.js.map": "/patient-react-apps/static/js/453.ffae61d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3afbcf20.css",
+    "static/js/main.6594e923.js"
+  ]
+}
